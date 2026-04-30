@@ -1,0 +1,5 @@
+{
+  "name": "Historical Narrative Architect",
+  "description": "Research historical events and analyze the hidden subtext in classical paintings through AI-driven narratives.",
+  "requestFramePermissions": ["camera"]
+}
